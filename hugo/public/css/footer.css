@@ -1,0 +1,23 @@
+
+
+/* .container{
+    display: flex;
+} */
+
+footer{
+    display: flex;
+    width: 100vw;
+    max-height: 375px;
+    border: solid red 2px;
+    border-width: 2px;
+}
+
+.footerColumn{
+    
+}
+
+.footerImage{
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
