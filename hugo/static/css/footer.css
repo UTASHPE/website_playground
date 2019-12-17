@@ -1,11 +1,13 @@
-.container{
-    display: flex;
-}
 
-.footer{
+
+/* .container{
+    display: flex;
+} */
+
+footer{
     width: 100vw;
     max-height: 375px;
-    border: red;
+    border: solid red 2px;
     border-width: 2px;
 }
 
