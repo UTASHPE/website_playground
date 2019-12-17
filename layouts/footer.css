@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+}
+
+.footer{
+    width: 100vw;
+    max-height: 375px;
+    border: red;
+    border-width: 2px;
+}
+
+.footerImage{
+    
+}
